@@ -1,0 +1,47 @@
+body {
+	background-color: #202124;
+	font-family: 'Product Sans', sans-serif;
+}
+
+h1 {
+	font-family: 'Arial', sans-serif;
+	font-size: 30px;
+	color: white;
+}
+
+p {
+	font-family: 'Arial', sans-serif;
+	font-size: 18px;
+	color: white;
+}
+
+table {
+	position: relative;
+	top: 70px;
+}
+
+td {
+	padding: 10px;
+}
+
+
+.boton {
+	position: relative;
+	top: 100px;
+	background-color: #0D1117;
+	border-radius: 5px;
+	padding: 12px 20px;
+	border: none;
+	color: white;
+}
+
+.fondo{
+	z-index: -1;
+	position: absolute;
+	top: 185px;
+	left: 400px;
+	width: 600px;
+	height: 300px;
+	border-radius: 10px;
+	background-color: #337AB7;
+}
